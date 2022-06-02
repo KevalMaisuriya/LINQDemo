@@ -1,0 +1,14 @@
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.exe
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.deps.json
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.json
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.dev.json
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.dll
+D:\Example\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.pdb
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.AssemblyReference.cache
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfoInputs.cache
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfo.cs
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.CoreCompileInputs.cache
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.dll
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.pdb
+D:\Example\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.genruntimeconfig.cache
